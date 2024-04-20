@@ -5,7 +5,7 @@ function Navbar() {
     <>
     <div className="navbar max-[375px]:flex max-[500px]:flex-col min-[375px]:flex min[375px]:flex-row">
         <div className="logo ">
-            <p className="logostyle">WIZARDZ</p>
+            <p className="logostyle">WIZARDZ.</p>
 
         </div>
         <div className="items min-[375px]:flex min[375px]:flex-col text-center justify-center items-center ">

@@ -14,14 +14,14 @@
 }
 
 .logostyle{
-    font-size:20px;
+    font-size: clamp(10px, 4vw, 20px);
     font-weight:bold;
     color:#54B435;
 }
 
 
 .items{
-    
+    font-size: clamp(8px, 4vw, 15px);
     
 }
 

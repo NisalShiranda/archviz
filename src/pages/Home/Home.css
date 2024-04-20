@@ -4,10 +4,32 @@
     border-radius: 10px;
 }
 
-.btn{
+.heading{
+    font-size: clamp(25px, 4vw, 75px);
+    font-weight:bold;
+}
+
+.heading1{
+    font-size: clamp(5px, 2vw, 20px);
+}
+
+.box1btn{
     background-color: black;
-    color: white;
-    padding:10px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
     border-radius: 10px;
 }
 
+.btn{
+    
+   
+    color: white;
+    padding:8px;
+    border-radius: 10px;
+    font-size: clamp(5px, 2vw, 15px);
+}
+
+.imageHome{
+    width: 75%;
+}
