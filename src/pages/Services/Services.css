@@ -5,11 +5,32 @@
 }
 
 .heading2{
-    font-size: clamp(20px, 3vw, 50px);
+    font-size: clamp(20px, 2.5vw, 50px);
+    background-color: #54B435;
     /* font-weight:bold; */
 }
 
 .heading3{
-    font-size: clamp(2px, 1vw, 30px);
+    font-size: clamp(5px, 2vw, 18px);
     
+}
+.serviceGrid{
+
+}
+.serviceGrid1w{
+    background-color: white;
+    
+    border-radius: 10px;
+}
+.serviceGrid1b{
+    background-color: black;
+    
+    border-radius: 10px;
+}
+
+.text{
+    width: 50%
+}
+.photo{
+    width: 50%;
 }
