@@ -1,0 +1,13 @@
+.home{
+    /* height: 82vh; */
+    background-color: #DCDCDC;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+}
+
