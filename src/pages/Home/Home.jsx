@@ -14,13 +14,6 @@ function Home() {
             <div className="box1btn ">
                 <button type="button" className="btn">Book for a see a miracles</button>
             </div>
-        
-        
-        
-        
-        
-        
-        
         </div>
         <div className="box2 sm:w-[40%]   ">
             <div className="box2image flex justify-center items-center">
@@ -28,29 +21,9 @@ function Home() {
 
             </div>
         </div>
-
-
-
-
-
-
-
-
-
     </div>
     <Company />
 
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     </>
   )
 }
