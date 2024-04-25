@@ -1,6 +1,6 @@
 import "./Services.css";
 import Search from "../../../public/search.svg";
-import { BsArrowUpRightCircleFill } from "react-icons/bs";
+// import { BsArrowUpRightCircleFill } from "react-icons/bs";
 
 function Services() {
   return (

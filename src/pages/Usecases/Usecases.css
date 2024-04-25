@@ -1,0 +1,28 @@
+.Usecases{
+    
+    background-color: #DCDCDC;
+    border-radius: 10px;
+}
+
+.box1text1{
+    font-size: clamp(10px, 2vw, 25px);
+}
+
+.box1text2{
+    font-size: clamp(5px, 1.5vw, 15px);
+
+}
+
+.box1text3{
+    font-size: clamp(5px, 1.8vw, 20px);
+    background-color: black;
+    color: white;
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.box2Image{
+    width: 60%;
+    height: auto;
+}
