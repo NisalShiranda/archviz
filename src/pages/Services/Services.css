@@ -14,14 +14,21 @@
     font-size: clamp(5px, 2vw, 18px);
     
 }
-.mark{
-    background-color: green;
-}
 
-.gridList{
+
+.gridList1{
     margin:10px;
     border-radius: 10px;
     height: auto;
+    
+}
+
+.gridList2{
+    margin:10px;
+    border-radius: 10px;
+    height: auto;
+    background-color: black;
+    color: white;
 }
 
 .search{
