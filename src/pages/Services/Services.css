@@ -14,23 +14,25 @@
     font-size: clamp(5px, 2vw, 18px);
     
 }
-.serviceGrid{
-
-}
-.serviceGrid1w{
-    background-color: white;
-    
-    border-radius: 10px;
-}
-.serviceGrid1b{
-    background-color: black;
-    
-    border-radius: 10px;
+.mark{
+    background-color: green;
 }
 
-.text{
-    width: 50%
+.gridList{
+    margin:10px;
+    border-radius: 10px;
+    height: auto;
 }
-.photo{
+
+.search{
     width: 50%;
+    height: auto;
+}
+
+.box1{
+    width: 60%;
+}
+
+.box2{
+    width: 40%;
 }

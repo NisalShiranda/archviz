@@ -1,4 +1,6 @@
 import './Services.css'
+import Search from '../../../public/search.svg'
+import { BsArrowUpRightCircleFill } from "react-icons/bs";
 
 
 function Services() {
@@ -14,6 +16,24 @@ function Services() {
                     
                     
                 </div>
+            </div>
+
+            <div className="gridContainer min-[320px]:grid grid-cols-1 sm:grids sm:grid-cols-2">
+                <div className="gridList flex flex-row justify-center items-center">
+                    <div className="box1">
+                    <p className="heading3 font-bold ]">Search engine optimization</p>
+                    <div>
+                    <BsArrowUpRightCircleFill />
+
+                    </div>
+                    </div>
+                    <div className="box2">
+                    <img className="search"src={Search}></img>
+                    </div>
+                </div>
+                <div className="gridList">2</div>
+                <div className="gridList">3</div>
+                <div className="gridList">4</div>
             </div>
 
            
