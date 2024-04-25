@@ -1,6 +1,6 @@
 .services{
     
-    background-color: #DCDCDC; 
+    /*background-color: #DCDCDC; */
     border-radius: 10px;
 }
 
@@ -20,6 +20,11 @@
     margin:10px;
     border-radius: 10px;
     height: auto;
+    border-bottom: 5px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    
     
 }
 
