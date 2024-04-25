@@ -1,0 +1,11 @@
+.casestudy{
+    /* background-color: #DCDCDC;  */
+    border-radius: 10px;
+}
+
+.blackbox{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
