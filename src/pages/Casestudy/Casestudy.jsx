@@ -15,14 +15,14 @@ function Casestudy() {
           </div>
         </div>
 
-        <div className="blackbox min-[320px]:grid min-[320px]:grids-col-1 sm:grid sm:grid-cols-3 place-content-center">
-            <div>
+        <div className="blackbox place-content-center min-[320px]:grid min-[320px]:grids-col-1  sm:grid sm:grid-cols-3 ">
+            <div className="box1 flex justify-center items-center ">
+                <p className="text-center" >Nisal Shiranda Ranasinghe Ranasimghr</p>
+            </div>
+            <div className="box1 ">
                 <p>Nisal Shiranda Ranasinghe</p>
             </div>
-            <div>
-                <p>Nisal Shiranda Ranasinghe</p>
-            </div>
-            <div>
+            <div className="box1 ">
                  <p>Nisal Shiranda Ranasinghe</p>
             </div>
         </div>
