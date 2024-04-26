@@ -3,15 +3,11 @@
     border-radius: 10px;
 }
 
-.blackbox{
+.casebox{
     background-color: black;
+    
+    
+    
     color: white;
     border-radius: 10px;
-    
-}
-
-.box1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }

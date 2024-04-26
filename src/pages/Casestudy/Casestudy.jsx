@@ -15,17 +15,45 @@ function Casestudy() {
           </div>
         </div>
 
-        <div className="blackbox place-content-center min-[320px]:grid min-[320px]:grids-col-1  sm:grid sm:grid-cols-3 ">
-            <div className="box1 flex justify-center items-center ">
-                <p className="text-center" >Nisal Shiranda Ranasinghe Ranasimghr</p>
-            </div>
-            <div className="box1 ">
-                <p>Nisal Shiranda Ranasinghe</p>
-            </div>
-            <div className="box1 ">
-                 <p>Nisal Shiranda Ranasinghe</p>
-            </div>
+      <div className="casebox p-16 min-[320px]:flex min-[320px]:flex-col sm:flex sm:flex-row justify-center items-center">
+        <div>
+            <p className="heading3 font-normal text-center">
+              Exlpore Real-life Examples of Our Proven digital
+              marketing Success through Our Case Studies.
+              Exlpore Real-life Examples of Our Proven digital
+              marketing Success through Our Case Studies.
+            </p>
+            <p className="heading3 font-normal text-center text-[#54B435]">
+              Learn More
+            </p>
         </div>
+        <div>
+            <p className="heading3 font-normal text-center">
+               Exlpore Real-life Examples of Our Proven digital
+              marketing Success through Our Case Studies.
+              Exlpore Real-life Examples of Our Proven digital
+              marketing Success through Our Case Studies.
+            </p>
+            <p className="heading3 font-normal text-center text-[#54B435]">
+              Learn More
+            </p>
+        </div>
+        <div>
+            <p className="heading3 font-normal text-center">
+              Exlpore Real-life Examples of Our Proven digital
+              marketing Success through Our Case Studies.
+              Exlpore Real-life Examples of Our Proven digital
+              marketing Success through Our Case Studies.
+            </p>
+            <p className="heading3 font-normal text-center text-[#54B435]">
+              Learn More
+            </p>
+        </div>
+
+
+      </div>
+
+        
     </div>
   )
 }
