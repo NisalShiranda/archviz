@@ -5,7 +5,7 @@ This Landing page was fully responsive
 
 
 ## Preview
-<a href='https://github.com/NisalShiranda/wizardz'>Click here</a> to preview the website.
+<a href='https://nisalshiranda.github.io/wizardz/'>Click here</a> to preview the website.
 
 ## Installation
 To get a local copy up and running, just clone the repo
